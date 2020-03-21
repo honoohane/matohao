@@ -1,0 +1,115 @@
+<data __type='void' id='rankofsong'>
+<music_id __type='s32'>
+startid
+</music_id>
+<parent_id __type='s32'>
+0
+</parent_id>
+<version __type='str'>
+1000
+</version>
+<bpm_max __type='float'>
+192
+</bpm_max>
+<bpm_min __type='float'>
+-1
+</bpm_min>
+<color1 __type='s32'>
+0
+</color1>
+<music_type __type='s32'>
+1
+</music_type>
+<name_sort_id_j __type='str'>
+106b
+</name_sort_id_j>
+<name_string __type='str'>
+8347838283498356838883938367838a8363836e8341
+</name_string>
+<level_bsc __type='u8'>
+3
+</level_bsc>
+<level_adv __type='u8'>
+8
+</level_adv>
+<level_ext __type='u8'>
+10
+</level_ext>
+<detail_level_bsc __type='float'>
+3.0
+</detail_level_bsc>
+<detail_level_adv __type='float'>
+8.0
+</detail_level_adv>
+<detail_level_ext __type='float'>
+10.0
+</detail_level_ext>
+<pos_index __type='s16'>
+1211
+</pos_index>
+<is_default __type='s32'>
+1
+</is_default>
+<is_card_default __type='s32'>
+1
+</is_card_default>
+<is_offline_default __type='s32'>
+1
+</is_offline_default>
+<is_hold __type='s32'>
+1
+</is_hold>
+<index_start __type='s32'>
+0
+</index_start>
+<step __type='s32'>
+0
+</step>
+<genre __type='void'>
+<pops __type='u8'>
+0
+</pops>
+<anime __type='u8'>
+0
+</anime>
+<socialmusic __type='u8'>
+0
+</socialmusic>
+<UMU __type='u8'>
+0
+</UMU>
+<game __type='u8'>
+0
+</game>
+<classic __type='u8'>
+0
+</classic>
+<original __type='u8'>
+2
+</original>
+<toho __type='u8'>
+0
+</toho>
+</genre>
+<grouping_category __type='str'>
+0
+</grouping_category>
+<avg_bsc __type='s32'>
+0
+</avg_bsc>
+<dev_bsc __type='s32'>
+0
+</dev_bsc>
+<avg_adv __type='s32'>
+0
+</avg_adv>
+<dev_adv __type='s32'>
+0
+</dev_adv>
+<avg_ext __type='s32'>
+0
+</avg_ext>
+<dev_ext __type='s32'>
+0
+</dev_ext>
+</data>
